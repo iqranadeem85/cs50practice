@@ -1,2 +1,2 @@
 # cs50practice
-# author iqra
+author iqra
