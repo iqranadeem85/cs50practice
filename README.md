@@ -1,3 +1,3 @@
 # cs50practice
-author iqra
+author iqra  
 this is for cs50 practice
